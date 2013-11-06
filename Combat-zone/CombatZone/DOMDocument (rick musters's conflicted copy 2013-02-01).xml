@@ -1,0 +1,131 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" width="1000" height="700" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" viewAngle3D="86.8503432264467" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <media>
+          <DOMBitmapItem name="1358994295_Box_Grey.png" itemID="51004a33-0000004c" sourceExternalFilepath="./LIBRARY/1358994295_Box_Grey.png" sourceLastImported="1358972718" originalCompressionType="lossless" quality="50" href="1358994295_Box_Grey.png" bitmapDataHRef="M 12 1359674852.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="1358994863_brainstorming.png" itemID="51004a33-0000004d" sourceExternalFilepath="./LIBRARY/1358994863_brainstorming.png" sourceLastImported="1358973288" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1358994863_brainstorming.png" bitmapDataHRef="M 10 1359674822.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="1358995014_Emulation.png" itemID="51004a33-0000004e" sourceExternalFilepath="./LIBRARY/1358995014_Emulation.png" sourceLastImported="1358973438" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1358995014_Emulation.png" bitmapDataHRef="M 11 1359674822.dat" frameRight="640" frameBottom="640"/>
+          <DOMBitmapItem name="1359005780_Magnet.png" itemID="51007441-00000d1a" sourceExternalFilepath="./LIBRARY/1359005780_Magnet.png" sourceLastImported="1358984181" sourcePlatform="macintosh" externalFileSize="4429" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="1359005780_Magnet.png" bitmapDataHRef="M 3 1358984199.dat" frameRight="960" frameBottom="960"/>
+          <DOMBitmapItem name="Bitmap 1" itemID="51040db3-00000416" sourceExternalFilepath="Bitmap 1.png" sourceLastImported="1359219925" sourcePlatform="macintosh" externalFileSize="8630" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 1.png" bitmapDataHRef="M 7 1359219925.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="Bitmap 2" itemID="51040ed9-00000427" sourceExternalFilepath="Bitmap 2.png" sourceLastImported="1359220431" sourcePlatform="macintosh" externalFileSize="14098" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Bitmap 2.png" bitmapDataHRef="M 12 1359220431.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="black" itemID="5104358d-00000077" sourceExternalFilepath="./LIBRARY/black.png" sourceLastImported="1359230217" originalCompressionType="lossless" quality="50" href="black.png" bitmapDataHRef="M 8 1359674822.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="blacks" itemID="5104437f-000000c3" sourceExternalFilepath="./LIBRARY/blacks.png" sourceLastImported="1359233771" originalCompressionType="lossless" quality="50" href="blacks.png" bitmapDataHRef="M 9 1359674822.dat" frameRight="2560" frameBottom="2560"/>
+          <DOMBitmapItem name="Cross.png" itemID="51040e5c-00000420" sourceExternalFilepath="./LIBRARY/Cross.png" sourceLastImported="1359220265" sourcePlatform="macintosh" externalFileSize="149896" originalCompressionType="lossless" quality="50" href="Cross.png" bitmapDataHRef="M 11 1359220290.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="gun.png" itemID="51083873-0000008b" sourceExternalFilepath="./LIBRARY/gun.png" sourceLastImported="1359683252" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="gun.png" bitmapDataHRef="M 13 1359675081.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="helm.png" itemID="51007119-00000d10" sourceExternalFilepath="./LIBRARY/helm.png" sourceLastImported="1358983384" sourcePlatform="macintosh" externalFileSize="156274" originalCompressionType="lossless" quality="50" href="helm.png" bitmapDataHRef="M 2 1358983402.dat" frameRight="12000" frameBottom="12000"/>
+          <DOMSoundItem name="Sao.mp3" itemID="510b31c3-00000d54" sourceExternalFilepath="./LIBRARY/Sao.mp3" sourceLastImported="1359687657" sourcePlatform="macintosh" externalFileSize="3815496" href="Sao.mp3" soundDataHRef="M 18 1359687756.dat" format="44kHz 16bit Stereo" sampleCount="8404992" exportFormat="1" exportBits="7" dataLength="3811788" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="1050624"/>
+          <DOMBitmapItem name="star.png" itemID="5103f1c6-00000ab6" sourceExternalFilepath="./LIBRARY/star.png" sourceLastImported="1359212439" sourcePlatform="macintosh" externalFileSize="4471" originalCompressionType="lossless" quality="50" href="star.png" bitmapDataHRef="M 4 1359212508.dat" frameRight="1280" frameBottom="1280"/>
+          <DOMBitmapItem name="tree.png" itemID="51006856-00000b88" sourceExternalFilepath="./LIBRARY/tree.png" sourceLastImported="1358980963" sourcePlatform="macintosh" externalFileSize="105424" originalCompressionType="lossless" quality="50" href="tree.png" bitmapDataHRef="M 1 1358981016.dat" frameRight="4260" frameBottom="4260"/>
+     </media>
+     <symbols>
+          <Include href="All_trees.xml" itemID="51006a70-00000c5a" lastModified="1359220059"/>
+          <Include href="All_trees2.xml" itemID="510129e5-00001030" lastModified="1359472166"/>
+          <Include href="ammo.xml" itemID="510b267f-00000c57" lastModified="1359685247"/>
+          <Include href="Bar Color.xml" loadImmediate="false" itemID="5108d13a-0000005a" lastModified="1359532558"/>
+          <Include href="block.xml" loadImmediate="false" itemID="50fec8b7-00000443" lastModified="1359472801"/>
+          <Include href="Block1.xml" itemID="5107e66d-00000cd2" lastModified="1359477006"/>
+          <Include href="Block2.xml" itemID="5107e680-00000cd7" lastModified="1359477013"/>
+          <Include href="Block3.xml" itemID="5107e691-00000cdc" lastModified="1359477020"/>
+          <Include href="Block4.xml" itemID="5107e69c-00000ce1" lastModified="1359477042"/>
+          <Include href="boss.xml" itemID="5109b19d-00000096" lastModified="1359632305"/>
+          <Include href="btn_start.xml" itemIcon="0" itemID="5103f013-0000003d" lastModified="1359212563"/>
+          <Include href="btn_tut.xml" itemIcon="0" itemID="5103f026-0000003e" lastModified="1359220463"/>
+          <Include href="Bullet.xml" itemID="50d1d08f-00000482" lastModified="1358981246"/>
+          <Include href="Bullet_Enemy.xml" itemID="50f71a57-000005a6" lastModified="1358887667"/>
+          <Include href="burnMark.xml" itemID="4e527ceb-00000393" lastModified="1314025707"/>
+          <Include href="Collision1.xml" itemID="5100e52e-00000d50" lastModified="1359153457"/>
+          <Include href="Collision2.xml" itemID="5100e56b-00000d54" lastModified="1359674012"/>
+          <Include href="Collision3.xml" itemID="51030d54-00001212" lastModified="1359653375"/>
+          <Include href="Collision4.xml" itemID="510aad1e-000004f4" lastModified="1359673999"/>
+          <Include href="cooldown 1.xml" loadImmediate="false" itemID="510aef36-00000063" lastModified="1359671258"/>
+          <Include href="cooldown1.xml" loadImmediate="false" itemID="510a6916-00000061" lastModified="1359646607"/>
+          <Include href="Door.xml" loadImmediate="false" itemID="5103c990-000008de" lastModified="1359311160"/>
+          <Include href="enemy.xml" itemID="51031b5a-00000049" lastModified="1359537293"/>
+          <Include href="enemy2.xml" loadImmediate="false" itemID="50f71fd4-000006ac" lastModified="1358372820"/>
+          <Include href="fire.xml" itemID="51031f3d-0000005f" lastModified="1359627103"/>
+          <Include href="fireball.xml" itemID="4e3fd7bd-000001e7" lastModified="1359201870"/>
+          <Include href="Gun.xml" itemID="510b1ec1-00000b6d" lastModified="1359688495"/>
+          <Include href="health_bar.xml" itemID="5103f001-0000003c" lastModified="1359674101"/>
+          <Include href="healthpowerup.xml" itemID="510a4599-00000083" lastModified="1359627673"/>
+          <Include href="infobar.xml" itemID="5103ea60-00000035" lastModified="1359231474"/>
+          <Include href="Left_trees.xml" itemID="5102b152-00001086" lastModified="1359131510"/>
+          <Include href="light.xml" itemID="4e4c085a-00000286" lastModified="1314025485"/>
+          <Include href="n1.xml" itemID="510454d5-000000f5" lastModified="1359302546"/>
+          <Include href="n2.xml" itemID="510454eb-000000f9" lastModified="1359302548"/>
+          <Include href="n3.xml" itemID="510454f8-000000fd" lastModified="1359302550"/>
+          <Include href="NoEntry.xml" itemID="51040e73-00000421" lastModified="1359311671"/>
+          <Include href="obstacle.xml" itemID="50ffd95d-000005cd" lastModified="1358944646"/>
+          <Include href="player.xml" itemID="50f71fd8-000006ad" lastModified="1358984341"/>
+          <Include href="right_trees.xml" itemID="5102b1b3-00001098" lastModified="1359131060"/>
+          <Include href="shock.xml" itemIcon="1" loadImmediate="false" itemID="50ff100c-0000003b" lastModified="1359302559"/>
+          <Include href="skill2.xml" itemID="510049c7-0000003e" lastModified="1359671094"/>
+          <Include href="skill3.xml" itemID="51004a35-00000050" lastModified="1359636758"/>
+          <Include href="spawnPoint.xml" itemID="510410a5-00000429" lastModified="1359302267"/>
+          <Include href="title.xml" itemID="5103f037-0000003f" lastModified="1359688950"/>
+          <Include href="Tree.xml" itemID="510067b5-00000b1c" lastModified="1359131219"/>
+          <Include href="Tween 1.xml" itemIcon="1" loadImmediate="false" itemID="50ff1371-00000042" lastModified="1358893937"/>
+          <Include href="Tween 2.xml" itemIcon="1" loadImmediate="false" itemID="50ff1371-00000044" lastModified="1358893937"/>
+          <Include href="Tween 3.xml" itemIcon="1" loadImmediate="false" itemID="50ff1373-00000046" lastModified="1358893939"/>
+          <Include href="Tween 4.xml" itemIcon="1" loadImmediate="false" itemID="50ff1374-00000048" lastModified="1358893940"/>
+          <Include href="Tween 5.xml" itemIcon="1" loadImmediate="false" itemID="50ff1375-0000004a" lastModified="1358893941"/>
+          <Include href="Tween 6.xml" itemIcon="1" loadImmediate="false" itemID="50ff1376-0000004c" lastModified="1358893942"/>
+          <Include href="Tween 7.xml" itemIcon="1" loadImmediate="false" itemID="510b34ed-00000096" lastModified="1359688941"/>
+          <Include href="Tween 8.xml" itemIcon="1" loadImmediate="false" itemID="510b34ed-00000098" lastModified="1359688941"/>
+          <Include href="Tween 9.xml" itemIcon="1" loadImmediate="false" itemID="510b34ee-0000009a" lastModified="1359688942"/>
+          <Include href="Tween 10.xml" itemIcon="1" loadImmediate="false" itemID="510b34ef-0000009c" lastModified="1359688943"/>
+          <Include href="Tween 11.xml" itemIcon="1" loadImmediate="false" itemID="510b34f1-0000009e" lastModified="1359688945"/>
+          <Include href="Tween 12.xml" itemIcon="1" loadImmediate="false" itemID="510b34f2-000000a0" lastModified="1359688946"/>
+          <Include href="Tween 13.xml" itemIcon="1" loadImmediate="false" itemID="510b34f4-000000a2" lastModified="1359688948"/>
+          <Include href="Tween 14.xml" loadImmediate="false" itemID="510b3406-0000004b" lastModified="1359688710"/>
+          <Include href="Tween 15.xml" loadImmediate="false" itemID="510b3406-0000004c" lastModified="1359688710"/>
+          <Include href="Tween 16.xml" loadImmediate="false" itemID="510b3406-0000004d" lastModified="1359688710"/>
+          <Include href="Tween 17.xml" loadImmediate="false" itemID="510b3406-0000004e" lastModified="1359688710"/>
+          <Include href="Tween 18.xml" loadImmediate="false" itemID="510b3406-0000004f" lastModified="1359688710"/>
+          <Include href="YouHaveLost.xml" itemID="509597b3-0000010b" lastModified="1359688497"/>
+          <Include href="YouHaveWon.xml" itemID="509594a8-00000104" lastModified="1352141829"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <persistentData>
+          <PD n="DebugMovieChecked" v="FlashPro"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="4133077" publishTime="1359688441"/>
+          <PublishItem publishSize="4133079" publishTime="1359688357"/>
+          <PublishItem publishSize="4133085" publishTime="1359688293"/>
+          <PublishItem publishSize="4122260" publishTime="1359688279"/>
+          <PublishItem publishSize="4128849" publishTime="1359687792"/>
+          <PublishItem publishSize="4128849" publishTime="1359687770"/>
+          <PublishItem publishSize="3330670" publishTime="1359687738"/>
+          <PublishItem publishSize="3330675" publishTime="1359687732"/>
+          <PublishItem publishSize="4128848" publishTime="1359687589"/>
+          <PublishItem publishSize="4128838" publishTime="1359687364"/>
+          <PublishItem publishSize="4128840" publishTime="1359687344"/>
+          <PublishItem publishSize="3331828" publishTime="1359686848"/>
+          <PublishItem publishSize="3331823" publishTime="1359686842"/>
+          <PublishItem publishSize="355648" publishTime="1359686621"/>
+          <PublishItem publishSize="355651" publishTime="1359686600"/>
+          <PublishItem publishSize="355652" publishTime="1359686540"/>
+          <PublishItem publishSize="355646" publishTime="1359686489"/>
+          <PublishItem publishSize="355653" publishTime="1359686448"/>
+          <PublishItem publishSize="355652" publishTime="1359686397"/>
+          <PublishItem publishSize="355626" publishTime="1359686178"/>
+     </publishHistory>
+</DOMDocument>

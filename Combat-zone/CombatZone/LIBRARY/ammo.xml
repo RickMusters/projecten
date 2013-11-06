@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ammo" itemID="510b267f-00000c57" linkageExportForAS="true" linkageClassName="Ammo" lastModified="1359685247">
+  <timeline>
+    <DOMTimeline name="ammo">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#999999"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-549 -120S7|-480 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!-480 -120S7[-492 -193 -518 -271!-518 -271[-542 -186 -549 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-241 -120S7|-172 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!-172 -120S7[-183 -193 -210 -271!-210 -271[-234 -186 -241 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-389 -120S7|-320 -120"/>
+                    <Edge fillStyle0="1" fillStyle1="3" strokeStyle="1" edges="!-320 -120S7[-331 -193 -358 -271!-358 -271[-382 -186 -389 -120"/>
+                    <Edge fillStyle0="3" fillStyle1="2" strokeStyle="1" edges="!-172 -120S7|-170 -120!-170 -120[-164 67 -170 251!-170 251[-204 243 -241 251!-241 251[-249 66 -241 -120!-320 -120|-318 -120!-318 -120[-312 67 -318 251!-318 251[-351 243 -389 251!-389 251[-397 66 -389 -120!-480 -120[-472 67 -480 251!-480
+ 251[-512 243 -549 251!-549 251[-557 66 -549 -120"/>
+                    <Edge fillStyle1="3" strokeStyle="2" edges="
+!-671 399S6|-671 -399!-671 -399|0 -399!0 -399|0 399!0 399|-671 399"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

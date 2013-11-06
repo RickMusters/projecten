@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="All_trees2" itemID="510129e5-00001030" linkageExportForAS="true" linkageClassName="Trees2" lastModified="1359472166" lastUniqueIdentifier="41">
+  <timeline>
+    <DOMTimeline name="All_trees2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Left_trees" name="Links" selected="true" centerPoint3DX="-580.85" centerPoint3DY="121.8">
+                  <matrix>
+                    <Matrix tx="-580.85" ty="121.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="right_trees" name="Rechts" centerPoint3DX="626.45" centerPoint3DY="101.75">
+                  <matrix>
+                    <Matrix tx="626.45" ty="101.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

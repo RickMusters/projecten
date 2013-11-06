@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="burnMark" itemID="4e527ceb-00000393" linkageExportForAS="true" linkageClassName="BurnMark" lastModified="1314025707">
+  <timeline>
+    <DOMTimeline name="burnMark">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.015106201171875" d="0.01519775390625" tx="-0.3" ty="-0.2"/>
+                        </matrix>
+                        <GradientEntry alpha="0.768627450980392" ratio="0"/>
+                        <GradientEntry alpha="0.36078431372549" ratio="0.286274509803922"/>
+                        <GradientEntry alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!174 -179[250 -107 250 0!250 0[250 100 174 173!174 173[99 250 0 250!0 250[-105 250 -180 173!-180 173[-250 100 -250 0!-250 0[-250 -107 -180 -179!-180 -179[-105 -250 0 -250!0 -250[99 -250 174 -179"/>
+                    <Edge cubics="!174 173(;125,224 64,250 0,250q174 173Q99 250q0 250);"/>
+                    <Edge cubics="!-180 173(;-227,124 -250,64 -250,0q-180 173Q-250 100q-250 0);"/>
+                    <Edge cubics="!0 250(;-72,250 -131,224 -180,173q0 250Q-105 250q-180 173);"/>
+                    <Edge cubics="!-180 -179(;-131,-227 -72,-250 0,-250q-180 -179Q-105 -250q0 -250);"/>
+                    <Edge cubics="!0 -250(;66,-250 125,-227 174,-179q0 -250Q99 -250q174 -179);"/>
+                    <Edge cubics="!250 0(;250,68 224,124 174,173q250 0Q250 100q174 173);"/>
+                    <Edge cubics="!174 -179(;224,-130 250,-71 250,0q174 -179Q250 -107q250 0);"/>
+                    <Edge cubics="!-250 0(;-250,-71 -227,-130 -180,-179q-250 0Q-250 -107q-180 -179);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_tut" itemID="5103f026-0000003e" linkageExportForAS="true" linkageClassName="btn_Tut" symbolType="button" lastModified="1359220463">
+  <timeline>
+    <DOMTimeline name="btn_tut">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E0241F"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="2" strokeStyle="1" edges="!2539 -1019|3704 -1019!3704 -1019[1043 74 3704 1014!3704 1014|2539 1014"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!2539 1014[643 -2 2539 -1019"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!2539 -1019|-2555 -1019"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-2555 -1019|-3720 -1019!-3720 -1019[-1235 -2 -3720 1014!-3720 1014|-2555 1014"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-2555 1014|2539 1014"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-2555 -1019[-731 74 -2555 1014"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="225.95" height="70" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-60" ty="-22.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Tutorial&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="30" bitmapSize="600" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

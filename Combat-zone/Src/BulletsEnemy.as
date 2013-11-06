@@ -1,0 +1,1 @@
+﻿package Src{	import flash.display.MovieClip;	import flash.geom.Point;	import flash.events.MouseEvent;		public class BulletsEnemy extends Unit	{		private var art:MovieClip;				public function BulletsEnemy() 		{			art = new BulletArtE();			addChild(art);		}					}}

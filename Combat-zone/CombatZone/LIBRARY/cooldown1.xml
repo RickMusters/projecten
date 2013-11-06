@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cooldown1" itemID="510a6916-00000061" lastModified="1359646607">
+  <timeline>
+    <DOMTimeline name="cooldown1" currentFrame="599">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="599" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFA.EF, -1.9609375" startPointB="#FFFFFA.EF, #1.A8" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-2.7578125, -1.9609375" anchorPointA="#FFFFFF.8D, -1.9609375" controlPointB="-2.7578125, #1.A8" anchorPointB="#FFFFFF.8D, #1.A8" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.8D, #0.07" anchorPointA="#FFFFFF.8D, #2.03" controlPointB="#FFFFFF.8D, #1.DA" anchorPointB="#FFFFFF.8D, #2.0C" isLine="true"/>
+                    <MorphCurves controlPointA="-2.7578125, #2.03" anchorPointA="#FFFFFA.EF, #2.03" controlPointB="-2.7578125, #2.0C" anchorPointB="#FFFFFA.EF, #2.0C" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFA.EF, #0.07" anchorPointA="#FFFFFA.EF, -1.9609375" controlPointB="#FFFFFA.EF, #1.DA" anchorPointB="#FFFFFA.EF, #1.A8" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFA.EF, -1.9609375" startPointB="#FFFFFA.EF, #1.A8" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="-2.7578125, -1.9609375" anchorPointA="#FFFFFF.8D, -1.9609375" controlPointB="-2.7578125, #1.A8" anchorPointB="#FFFFFF.8D, #1.A8" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.8D, #0.07" anchorPointA="#FFFFFF.8D, #2.03" controlPointB="#FFFFFF.8D, #1.DA" anchorPointB="#FFFFFF.8D, #2.0C" isLine="true"/>
+                    <MorphCurves controlPointA="-2.7578125, #2.03" anchorPointA="#FFFFFA.EF, #2.03" controlPointB="-2.7578125, #2.0C" anchorPointB="#FFFFFA.EF, #2.0C" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFA.EF, #0.07" anchorPointA="#FFFFFA.EF, -1.9609375" controlPointB="#FFFFFA.EF, #1.DA" anchorPointB="#FFFFFA.EF, #1.A8" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666" alpha="0.63921568627451"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-115 -502|-115 515!-115 515|-1297 515!-1297 515|-1297 -502!-1297 -502|-115 -502"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="599" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666" alpha="0.63921568627451"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FF0000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-115 524|-1297 524!-1297 524|-1297 424!-1297 424|-115 424!-115 424|-115 524"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="599" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="black">
+                  <matrix>
+                    <Matrix a="0.546875" d="0.46875" tx="-70" ty="-30"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="1358995014_Emulation.png">
+                  <matrix>
+                    <Matrix a="1.4375" d="1.25" tx="-58.3" ty="-18.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="599" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="black">
+                  <matrix>
+                    <Matrix a="0.546875" d="0.46875" tx="-70" ty="-30"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="1358995014_Emulation.png">
+                  <matrix>
+                    <Matrix a="1.4375" d="1.25" tx="-58.3" ty="-18.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="16"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

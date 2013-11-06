@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GameOver" itemID="510b364a-00000e7a" linkageExportForAS="true" linkageClassName="GameOver" lastModified="1359709034">
+  <timeline>
+    <DOMTimeline name="GameOver">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="463.6" height="106" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-251" ty="-41"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> Game OVER</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="80" bitmapSize="1600" face="Algerian" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

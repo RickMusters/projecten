@@ -1,0 +1,1 @@
+﻿package Src {		import flash.display.MovieClip;	import flash.events.MouseEvent;		public class Doors extends MovieClip	{				private var art:MovieClip;				public function Doors() 		{			art = new DoorArt();			art.x = 500;			art.y =-300;			addChild(art);					}	}}

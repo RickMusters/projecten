@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Block3" itemID="5107e691-00000cdc" linkageExportForAS="true" linkageClassName="Block3" lastModified="1359477020" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Block3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="block" name="blok" centerPoint3DX="88.5" centerPoint3DY="62.65">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="89.15" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="block" name="blok" centerPoint3DX="152.65" centerPoint3DY="126.25">
+                  <matrix>
+                    <Matrix tx="152.6" ty="125.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="block" name="blok" centerPoint3DX="52.65" centerPoint3DY="126.25">
+                  <matrix>
+                    <Matrix tx="52.6" ty="125.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

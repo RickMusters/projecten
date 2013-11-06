@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="btn_start" itemID="5103f013-0000003d" linkageExportForAS="true" linkageClassName="btn_Start" symbolType="button" lastModified="1359212563">
+  <timeline>
+    <DOMTimeline name="btn_start">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#E0241F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2547 -997|3712 -997!3712 -997[#41A.E6 #5F.96 3712 1036!3712 1036|2547 1036"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!2547 1036[#28A.A1 19.5 2547 -997"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!2547 -997|-2547 -997"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-2547 -997|-3712 -997!-3712 -997[#FFFB35.19 19.5 -3712 1036!-3712 1036|-2547 1036"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-2547 1036|2547 1036"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-2547 -997[-722.84375 #5F.96 -2547 1036"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="225.95" height="70" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-73.6" ty="-21.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>start game</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="27" bitmapSize="540" face="ArialRoundedMTBold" fillColor="#D2D2D2"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="30" bitmapSize="600" face="ArialRoundedMTBold" fillColor="#D2D2D2"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

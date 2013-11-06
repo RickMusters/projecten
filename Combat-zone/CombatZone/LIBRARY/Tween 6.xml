@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 6" itemID="50ff1376-0000004c" symbolType="graphic" lastModified="1358893942">
+  <timeline>
+    <DOMTimeline name="Tween 6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-31.95"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3.4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3281 -1000S6|5001 -1000!5001 -1000[1199 211 5001 1000!5001 1000|3281 1000"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!3281 1000S7[185 282 3281 -1000"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!3281 -1000S5|-3318 -1000"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-3318 -1000S5|-5038 -1000!-5038 -1000[-1676 0 -5038 1000!-5038 1000|-3318 1000"/>
+                    <Edge fillStyle0="2" strokeStyle="1" edges="!-3318 1000S5|3281 1000"/>
+                    <Edge fillStyle0="2" fillStyle1="1" strokeStyle="1" edges="!-3318 -1000S7[-1333 74 -3318 1000"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="shock" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.37628173828125" b="0.279571533203125" c="-0.205657958984375" d="0.27679443359375" tx="272.8" ty="-31.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.9" y="87.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="shock" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="-0.356735229492188" b="0.304351806640625" c="0.22381591796875" d="0.262313842773438" tx="-277.15" ty="-31.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="111.85" y="86.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

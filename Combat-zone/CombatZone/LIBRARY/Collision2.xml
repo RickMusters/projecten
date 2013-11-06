@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Collision2" itemID="5100e56b-00000d54" linkageExportForAS="true" linkageClassName="Collision2" lastModified="1359674012">
+  <timeline>
+    <DOMTimeline name="Collision2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.10443115234375" tx="-612.75" ty="-707.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="504.1" y="707.2"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.996078431372549"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!20805 14324S2|-640 14324!-640 14324|-640 13964!-640 13964|20805 13964!20805 13964|20805 14324"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

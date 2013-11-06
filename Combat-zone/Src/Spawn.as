@@ -1,0 +1,1 @@
+﻿package Src  {	import flash.display.MovieClip	public class Spawn extends MovieClip	{		private var art:MovieClip;		public function Spawn() 		{			art = new SpawnArt;			addChild(art);		}	}	}
